@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me hiruthi.2401054@srec.ac.in
 - 😄 Pronouns: she
-- ⚡ Fun fact: i love to do Research to the core,if its interest's me
+- ⚡ Fun fact: i love to do Research to the core,if it interest's me
 
 <!---
 Hiru-foss/Hiru-foss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
